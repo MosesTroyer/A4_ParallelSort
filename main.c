@@ -128,7 +128,7 @@ int main(int argc, char *argv[]){
 
 	chdir("..");
 
-  FILE *f = fopen("sorted.txt", "w"); 
+  FILE *f = fopen("sorted.yay", "w"); 
   int positions[fileCount];
   int lowest, lowestFile;
 
