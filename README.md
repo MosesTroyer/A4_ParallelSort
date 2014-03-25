@@ -1,3 +1,7 @@
+This is the first C project I feel reasonably proud enough to show off. It contains bad naming, some inflexibility, and some code I think could be done much, much better, but it spins up threads and sorts files and I think it's super cool. 
+
+Requirements:
+
 # A4: Parallel Sort
 
 In this assignment you will be subjected to a 100% completely realistic scenario. Somebody borked our database and now the records are all chopped up and out of order. So now it's YOUR job to clean up this mess and write a program to sort these back into a single file. Oh, and we only have a few nanoseconds to do it, so you'd better do it with pthreads!
